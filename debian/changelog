@@ -1,5 +1,5 @@
-libzonemaster-ldns-perl (1.0.2-1) unstable; urgency=low
+libzonemaster-ldns-perl (1.0.2-1) precise; urgency=low
 
-  * Initial Release.
+  * Initial Debian packaging.
 
  -- Mattias Päivärinta <mattias.paivarinta@iis.se>  Wed, 25 Apr 2018 08:56:56 +0200
