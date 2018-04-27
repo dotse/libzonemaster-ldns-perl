@@ -1,5 +1,6 @@
-libzonemaster-ldns-perl (1.0.2-1) precise; urgency=low
+libzonemaster-ldns-perl (1.0.2-13-8e093fc-iis1) precise; urgency=low
 
   * Initial Debian packaging.
+  * Built from 8e093fc, 13 commits after 1.0.2.
 
  -- Mattias Päivärinta <mattias.paivarinta@iis.se>  Wed, 25 Apr 2018 08:56:56 +0200
