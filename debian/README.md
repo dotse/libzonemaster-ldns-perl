@@ -16,7 +16,7 @@ release version, N is the number of commits since that release and C is
 the shortsha of the latest commit. E.g. "1.0.2-13-8e093fc".
 
     VERSION=1.0.2-13-8e093fc
-    REV=iis1
+    REV=iis2
 
 
 ## Download dist tarball
