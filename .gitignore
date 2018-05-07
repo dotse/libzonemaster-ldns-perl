@@ -1,0 +1,7 @@
+*
+!.gitignore
+!debian/
+!debian/**
+debian/files
+debian/libzonemaster-ldns-perl.debhelper.log
+debian/libzonemaster-ldns-perl.substvars

@@ -1,0 +1,24 @@
+Source: libzonemaster-ldns-perl
+Section: perl
+Priority: optional
+Maintainer: Mattias Päivärinta <mattias.paivarinta@iis.se>
+Build-Depends: debhelper (>= 8),
+ libdevel-checklib-perl,
+ libidn11-dev,
+ libldns-dev (>= 1.7.0),
+ libtest-fatal-perl,
+ perl
+Standards-Version: 3.9.2
+Homepage: http://github.com/dotse/zonemaster-ldns/
+
+Package: libzonemaster-ldns-perl
+Architecture: amd64
+Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends},
+ libidn11,
+ libldns2 (>= 1.7.0),
+ perl
+Description: Perl wrapper for the ldns DNS library.
+ Zonemaster::LDNS represents a resolver, which is the part of the system
+ responsible for sending queries and receiving answers to them.
+ .
+ This description was automagically extracted from the module by dh-make-perl.
